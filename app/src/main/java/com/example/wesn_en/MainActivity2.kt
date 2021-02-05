@@ -40,6 +40,6 @@ class MainActivity2 : AppCompatActivity() {
         graph.viewport.setMaxY(15.0);
         graph.viewport.isYAxisBoundsManual = true;
         graph.viewport.isXAxisBoundsManual = true;
-        graph.gridLabelRenderer.setHumanRounding(false)
+//        graph.gridLabelRenderer.setHumanRounding(false)
     }
 }
